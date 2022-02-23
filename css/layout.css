@@ -24,4 +24,19 @@
 
 /* Positioning Classes */
 
+.shadow.one{
+  width: 66%;
+  float: left;
+}
+.shadow.two{
+  width: 32.2%;
+  float: right;
+  padding-bottom: 24px;
 
+}
+
+.deals{
+  margin-top: 20px;
+  display: inline-block;
+  column-count: 3;
+}
